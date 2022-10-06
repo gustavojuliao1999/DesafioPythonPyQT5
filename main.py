@@ -286,11 +286,10 @@ class Ui_MainWindow(object):
         self.createWinLabels = [self.goToJoinButton, self.createFinalButton, self.alreadyHaveAccountLabel,
                                 self.usernameTextEdit, self.usernameTitle, self.passwordTextEdit, self.passwordTitle,
                                 self.accountAlreadyExistsLabel, self.accountCreatedLabel]
-        self.welcomeWinLabels = [self.listFiles,self.video,self.pbplay,self.pbstop,self.pbpause, self.goToJoinButton]
+        self.welcomeWinLabels = [self.listFiles,self.video,self.pbplay,self.pbstop,self.pbpause]
 
         self.joinButton.clicked.connect(self.joinClicked)
         self.createAccountButton.clicked.connect(self.goToCreateClicked)
-        self.goToJoinButton.clicked.connect(self.goToJoinClicked)
         self.createFinalButton.clicked.connect(self.createAccountClicked)
 
         for label in self.createWinLabels:
