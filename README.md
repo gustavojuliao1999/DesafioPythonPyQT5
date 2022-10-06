@@ -11,7 +11,7 @@ after execute main.py
 all videos listed from folder videos
 
 link testing
-https://youtu.be/cUHkBlBwR_w
+https://youtu.be/Gcuq764G2PI
 
 #Portugues 
 
@@ -24,4 +24,4 @@ depois execute o programa com o python main.py
 todos os videos serão listados na pasta videos
 
 vVideo Testando
-https://youtu.be/cUHkBlBwR_w
+https://youtu.be/Gcuq764G2PI
