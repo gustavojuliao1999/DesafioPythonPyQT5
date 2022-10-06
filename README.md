@@ -10,7 +10,7 @@ after execute main.py
 
 all videos listed from folder videos
 
-#Portugôes 
+#Portugues 
 
 Execute o comeando no terminal para instalar os pacotes básicos
 
